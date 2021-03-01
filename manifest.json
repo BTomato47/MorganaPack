@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Replaces Tuxedo Cat with Morgana from Persona 5. Have fun going to sleep!",
+		"name": "§cMorgana Cat Pack",
+		"uuid": "1610bfce-5db9-432a-9b94-9fc6ec98ec82",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 13, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "1ee250c9-9187-4851-88d4-74198de06aca",
+			"version": [1, 0, 0]
+		}
+	]
+}
+
