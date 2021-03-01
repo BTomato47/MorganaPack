@@ -10,7 +10,8 @@ This is here to hopefully help you.
 You may use Morgana's texture as a base for other cats. The TARGA file for the tamed varient is included within the source code as well.
 
 #### All Files Included:
-- All files used to create icon.
+- All images used to create icon.
+- Font used in icon.
 - Original icon PSD file.
 
 #### Troubleshooting Targa
