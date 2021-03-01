@@ -17,11 +17,11 @@ The base textures and 'manifest.json' were created by Mojang and modified by me 
 
 If you want to make a fork out of this pack, or use the textures in your own pack, that's fine by me.
 Just make sure to include credit in your credits file and/or description on your hosting platform.
-Also make sure to include a link to this project's [GitHub Page](https://github.com/BTomato47/MorganaPack/) or it's link on [MCPEDL]().
+Also make sure to include a link to this project's [GitHub Page](https://github.com/BTomato47/MorganaPack/) or it's link on [MCPEDL](https://mcpedl.com/morgana-texture-pack/).
 
 **Links:**
 GitHub: https://github.com/BTomato47/MorganaPack/
 
-MCPEDL:
+MCPEDL: https://mcpedl.com/morgana-texture-pack/
 
 *Thank you NiteFoosion, from the Minecraft Bug Tracker for the help fixing Mona's leash!*
