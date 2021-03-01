@@ -13,7 +13,7 @@ If you are using multiple texture packs, make sure to place this one at the very
 
 #### Making a Fork or using in your own Pack?
 This was created by me, using the vanilla Tuxedo Cat's textures as a base.
-The base textures and manifest.json were created by Mojang and modified by me for entertainment purposes only.
+The base textures and 'manifest.json' were created by Mojang and modified by me for entertainment purposes only.
 
 If you want to make a fork out of this pack, or use the textures in your own pack, that's fine by me.
 Just make sure to include credit in your credits file and/or description on your hosting platform.
