@@ -20,7 +20,7 @@ Just make sure to include credit in your credits file and/or description on your
 Also make sure to include a link to this project's [GitHub Page](https://github.com/BTomato47/MorganaPack/) or it's link on [MCPEDL]().
 
 **Links:**
-Github: https://github.com/BTomato47/MorganaPack/
+GitHub: https://github.com/BTomato47/MorganaPack/
 
 MCPEDL:
 
