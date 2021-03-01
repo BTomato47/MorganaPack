@@ -6,7 +6,7 @@ Morgana and his appearance, as well as his sprite and the Persona 5 logo are pro
 Minecraft is the property of Mojang Studios and Microsoft Coporation.
 
 #### What is it?
-The Morgana Texture pack is a texture pack for **Minecraft Bedrock Edition**,t his pack adds **Morgana** from Persona 5 to Minecraft! Now you can relive all of your P5 trauma as Morgana beckons you to sleep...
+The Morgana Texture pack is a texture pack for **Minecraft Bedrock Edition**, this pack adds **Morgana** from Persona 5 to Minecraft! Now you can relive all of your P5 trauma as Morgana beckons you to sleep...
 
 This texture pack replaces the Tuxedo Cat in vanilla Minecraft to Morgana. No other textures are changed!
 If you are using multiple texture packs, make sure to place this one at the very top for it to work!
